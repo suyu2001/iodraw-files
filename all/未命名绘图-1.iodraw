@@ -34,6 +34,12 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-11" value="主循环开始调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-14" value="分析按键ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
