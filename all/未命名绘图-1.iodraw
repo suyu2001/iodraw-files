@@ -31,8 +31,14 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-11" target="kK_bwBnyFXRD3W6tvNiH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-11" value="主循环开始调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-14" target="kK_bwBnyFXRD3W6tvNiH-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-14" value="分析按键ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
