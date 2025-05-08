@@ -47,8 +47,8 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-14" value="查询寄存器信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kK_bwBnyFXRD3W6tvNiH-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-24" value="程序初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
