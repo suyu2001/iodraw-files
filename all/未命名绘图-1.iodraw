@@ -39,7 +39,11 @@
         </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="410" as="targetPoint" />
+            <mxPoint x="250" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="415" />
+              <mxPoint x="251" y="415" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-14" value="查询寄存器信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
