@@ -36,6 +36,9 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-27" value="200MS定时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-28" value="整理数据包发送数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
