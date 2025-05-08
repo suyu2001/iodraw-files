@@ -21,15 +21,6 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-3" value="SPI数据传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kK_bwBnyFXRD3W6tvNiH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-4" target="kK_bwBnyFXRD3W6tvNiH-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="551" y="555" />
-              <mxPoint x="551" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-4" value="屏幕显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="525" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,6 +32,9 @@
         </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-24" value="程序初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
