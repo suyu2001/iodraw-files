@@ -43,8 +43,14 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-14" value="分析按键ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-15" target="kK_bwBnyFXRD3W6tvNiH-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-15" value="执行相应指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
