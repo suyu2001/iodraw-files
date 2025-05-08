@@ -7,7 +7,7 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-1" target="kK_bwBnyFXRD3W6tvNiH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kK_bwBnyFXRD3W6tvNiH-1" value="开始&lt;br&gt;10ms定时中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-1" value="程序初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-2" target="kK_bwBnyFXRD3W6tvNiH-3">
