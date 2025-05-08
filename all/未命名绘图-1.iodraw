@@ -10,8 +10,8 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-2" value="查询按键是否按下" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kK_bwBnyFXRD3W6tvNiH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-3" value="根据按键状态判断按键状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
