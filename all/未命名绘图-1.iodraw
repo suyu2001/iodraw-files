@@ -13,7 +13,7 @@
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-2" target="kK_bwBnyFXRD3W6tvNiH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kK_bwBnyFXRD3W6tvNiH-2" value="查询按键是否按下" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kK_bwBnyFXRD3W6tvNiH-2" value="实时检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kK_bwBnyFXRD3W6tvNiH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK_bwBnyFXRD3W6tvNiH-3" target="kK_bwBnyFXRD3W6tvNiH-4">
